@@ -11,4 +11,5 @@
  - [Day 3 - Spiral Memory](https://github.com/khalido/advent2017/blob/master/Day%203%20-%20Spiral%20Memory.ipynb) - TODO, can see many ways to do this, none elegant
  - [Day 4: High-Entropy Passphrases](https://github.com/khalido/advent2017/blob/master/Day%204%20-%20High-Entropy%20Passphrases.ipynb) - suprisingly easy after day 3.
  - [Day 5: A Maze of Twisty Trampolines, All Alike]()
- - [Day 6: Memory Reallocation]()
+ - [Day 6: Memory Reallocation](https://github.com/khalido/advent2017/blob/master/Day%206%20-%20Memory%20Reallocation.ipynb)
+ - [Day 7: Recursive Circus]()
