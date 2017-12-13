@@ -12,4 +12,5 @@
  - [Day 4: High-Entropy Passphrases](https://github.com/khalido/advent2017/blob/master/Day%204%20-%20High-Entropy%20Passphrases.ipynb) - suprisingly easy after day 3.
  - [Day 5: A Maze of Twisty Trampolines, All Alike]()
  - [Day 6: Memory Reallocation](https://github.com/khalido/advent2017/blob/master/Day%206%20-%20Memory%20Reallocation.ipynb)
- - [Day 7: Recursive Circus]()
+ - [Day 7: Recursive Circus](https://github.com/khalido/advent2017/blob/master/Day%207%20-%20Recursive%20Circus.ipynb) - build a graph, recursively
+ - [Day 8: I Heard You Like Registers]()
