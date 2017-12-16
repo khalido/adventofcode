@@ -8,9 +8,12 @@
 
 - [Day 1 - Inverse Captcha](https://github.com/khalido/advent2017/blob/master/Day%201%20-%20Inverse%20Captcha.ipynb)
 - [Day 2 - Corruption Checksum](https://github.com/khalido/advent2017/blob/master/Day%202%20-%20Corruption%20Checksum.ipynb)
- - [Day 3 - Spiral Memory](https://github.com/khalido/advent2017/blob/master/Day%203%20-%20Spiral%20Memory.ipynb) - TODO, can see many ways to do this, none elegant
- - [Day 4: High-Entropy Passphrases](https://github.com/khalido/advent2017/blob/master/Day%204%20-%20High-Entropy%20Passphrases.ipynb) - suprisingly easy after day 3.
- - [Day 5: A Maze of Twisty Trampolines, All Alike]()
- - [Day 6: Memory Reallocation](https://github.com/khalido/advent2017/blob/master/Day%206%20-%20Memory%20Reallocation.ipynb)
- - [Day 7: Recursive Circus](https://github.com/khalido/advent2017/blob/master/Day%207%20-%20Recursive%20Circus.ipynb) - build a graph, recursively
- - [Day 8: I Heard You Like Registers]()
+- [Day 3 - Spiral Memory](https://github.com/khalido/advent2017/blob/master/Day%203%20-%20Spiral%20Memory.ipynb) - TODO, many ways to do this, but how do to it elegantly?. Try again later.
+- [Day 4: High-Entropy Passphrases](https://github.com/khalido/advent2017/blob/master/Day%204%20-%20High-Entropy%20Passphrases.ipynb) - suprisingly easy after day 3.
+- [Day 5: A Maze of Twisty Trampolines, All Alike]()
+- [Day 6: Memory Reallocation](https://github.com/khalido/advent2017/blob/master/Day%206%20-%20Memory%20Reallocation.ipynb)
+- [Day 7: Recursive Circus](https://github.com/khalido/advent2017/blob/master/Day%207%20-%20Recursive%20Circus.ipynb) - build a graph, recursively
+- [Day 8: I Heard You Like Registers]()
+- [Day 9: Stream Processing]()
+- [Day 10: Knot Hash](https://github.com/khalido/advent2017/blob/master/Day%2010%20-%20Knot%20Hash.ipynb)
+- 
