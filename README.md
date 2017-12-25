@@ -8,7 +8,7 @@
 
 - [Day 1 - Inverse Captcha](https://github.com/khalido/advent2017/blob/master/Day%2001%20-%20Inverse%20Captcha.ipynb)
 - [Day 2 - Corruption Checksum](https://github.com/khalido/advent2017/blob/master/Day%2002%20-%20Corruption%20Checksum.ipynb)
-- [Day 3 - Spiral Memory](https://github.com/khalido/advent2017/blob/master/Day%2003%20-%20Spiral%20Memory.ipynb) - TODO, many ways to do this, but how do to it elegantly?. Try again later.
+- [Day 3 - Spiral Memory](https://github.com/khalido/advent2017/blob/master/Day%2003%20-%20Spiral%20Memory.ipynb) - It's a suprisingly simple problem yet there are so many ways to do it.
 - [Day 4: High-Entropy Passphrases](https://github.com/khalido/advent2017/blob/master/Day%2004%20-%20High-Entropy%20Passphrases.ipynb) - suprisingly easy after day 3.
 - [Day 5: A Maze of Twisty Trampolines, All Alike](https://github.com/khalido/advent2017/blob/master/Day%2005%20-%20A%20Maze%20of%20Twisty%20Trampolines%2C%20All%20Alike.ipynb)
 - [Day 6: Memory Reallocation](https://github.com/khalido/advent2017/blob/master/Day%2006%20-%20Memory%20Reallocation.ipynb)
