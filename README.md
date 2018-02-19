@@ -6,5 +6,5 @@
 
 I've done each puzzle in a seperate jupyter notebook using python 3. Some notes:
 
-Days 1-20 are all done so far.
+Days 1-21 are all done so far. Annoying a jupyter bug wiped clean my day 21 notebook when I closed it, before I commited it to git.
 
