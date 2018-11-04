@@ -1,13 +1,16 @@
 import numpy as np
+import requests
 
-def get_input(day=1, split_on="\n"):
-    """takes in the day and a string to split on"""
+def get_input(day=1, year=2015, split_on="\n"):
+    """takes in the day, year and a string to split on"""
     try:
-        with open(f'inputs/{day}.txt') as f:
+        with open(f'../inputs//{year}/{day}.txt') as f:
             data = f.read().strip().split(split_on)
-        return data
     except:
-        print("You must download the file and save into the inputs directory as {day_num}.txt")
+        url = f"https://github.com/khalido/adventofcode/raw/master/inputs/{year}/{day}.txt"
+        data = requests.get(url).text
+    
+    return data.strip().split(split_on)
         
 def rotate(arr, num):
     """shits items in arr by num"""
