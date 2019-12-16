@@ -24,3 +24,9 @@ def printmd(txt="## testing"):
 def rotate(arr, num):
     """shits items in arr by num"""
     return np.roll(arr, num)
+
+def convert_to_grid(inp: str):
+    """takes in grid as a string and returns a 2d grid representation"""
+    strings = inp.strip().splitlines()
+    rows = [np.array([c for c in row]) for row in strings]
+    return np.array(rows, dtype="U")
