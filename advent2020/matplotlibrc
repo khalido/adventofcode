@@ -1,0 +1,20 @@
+# figure
+figure.titlesize:   14     # (``Figure.suptitle()``)
+figure.titleweight: bold
+
+figure.figsize: 10, 6
+figure.frameon: True
+
+# axes
+axes.spines.top:   False
+axes.spines.right: False
+axes.edgecolor:    lightgrey 
+axes.titlesize:    14  
+axes.titleweight:  normal
+
+# axis ticks
+#xtick.color:         grey
+#ytick.color:         grey
+
+# scatter plot
+scatter.marker: o
