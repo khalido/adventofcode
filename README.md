@@ -4,7 +4,7 @@
 
 This here is my solutions for Advent of Code 2015-20 as jupyter notebooks. Most of the solutions are pretty verbose as I've left in the iterim code as I work through each puzzle one step at a time.
 
-For AOC 2020, I'm doing quick and dirty solutions in this repo and posting cleaned up versions to my blog: https://khalido.org/python/advent-of-code-2020.html.
+For AOC 2020, I'm doing quick and dirty solutions in this repo and posting cleaned up versions to my blog: https://khalido.org/python/advent-of-code-2020.html. At some point in the indertimate future I'll make a blog post for each AOC year.
 
 ---
 
