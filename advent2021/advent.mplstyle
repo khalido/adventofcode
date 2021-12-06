@@ -1,0 +1,14 @@
+# Figure Properties
+figure.figsize: 8, 6
+
+axes.titlesize : 24
+axes.labelsize : 18
+lines.linewidth : 1.5
+lines.markersize : 10
+xtick.labelsize : 14
+ytick.labelsize : 14
+
+
+# Legend properties
+legend.framealpha: 1
+legend.frameon: False
