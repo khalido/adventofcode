@@ -8,7 +8,7 @@ import numpy as np
 import requests
 
 
-def get_input(day=1, year=2021, splitlines=True):
+def get_input(day=1, year=2021, splitlines=False):
     """takes in the day, year and a string to split on"""
     try:
         with open(f"../inputs/{year}/{day}.txt") as f:
