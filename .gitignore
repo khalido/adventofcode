@@ -1,3 +1,6 @@
+# advent of code - ignore inputs folders
+inputs/
+
 # macOS system files
 .DS_Store
 .DS_Store?
