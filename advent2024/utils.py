@@ -4,6 +4,7 @@ Todo:
 1. replace the numpy based rotate function with a python equivalent
 """
 
+import re
 import numpy as np
 import requests
 
@@ -14,7 +15,7 @@ def get_input(day: int = 1, year: int = 2023, splitlines=False) -> str:
 
     try:
         with open(f"inputs/{day}.txt") as f:
-            data = f.read()
+            data = f.read().strip()
     except:
         print(
             f"Failed to load advent{year}/inputs/{day}.txt from disk, trying to get from github"
@@ -36,3 +37,9 @@ def printmd(txt: str = "## testing"):
 def rotate(arr, num):
     """shits items in arr by num"""
     return np.roll(arr, num)
+
+
+def get_nums(line: str) -> list:
+    """takes a string, returns a list of numbers found
+    '47|53' -> (47, 53)"""
+    return [int(x) for x in re.findall(r"\d+", line)]
